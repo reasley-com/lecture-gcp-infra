@@ -1,4 +1,4 @@
-<img src="https://naver.github.io/billboard.js/img/logo/billboard.js.svg" width="350" alt="billboard.js"><br>
+<img src="https://user-images.githubusercontent.com/33018600/144709842-1ab984b4-ab79-4b44-904b-fbf564a5b827.JPG" width="600"><br>
 
 Google Cloud Platform에 대해 이해하는 강의입니다.
 > 강의 목표<br>
