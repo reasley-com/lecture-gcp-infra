@@ -29,8 +29,8 @@
 <br />
 
 ## 🌊 강사의 다른 사이트
-There is a lot of information about Cloud Platform on blogs and on GitHub.    
-We ask for your interest.
+운영중인 블로그와 깃허브에 Cloud Platform에 대한 정보도 있습니다.
+많은 관심 부탁드립니다.
 
 * [Reasley Blog](https://reasley.com)
 * [Reasley GitHub](https://github.com/reasley-com)
