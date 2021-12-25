@@ -14,6 +14,7 @@
 - 05 GCP VPC
 - 06 GCP Load Balancing
 - 07 GCP BigQuery
+- 08 GCP Pub/Sub
 
 <br />
 
