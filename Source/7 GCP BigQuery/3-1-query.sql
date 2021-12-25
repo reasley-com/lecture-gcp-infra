@@ -1,0 +1,1 @@
+SELECT First_Name, Weight_in_Kgs_ FROM `gcp-infra-334407.data_set.100_records` WHERE Gender = 'M' ORDER BY Weight_in_Kgs_ DESC LIMIT 10

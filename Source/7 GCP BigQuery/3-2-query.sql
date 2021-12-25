@@ -1,0 +1,1 @@
+SELECT Emp_ID, User_Name, Password FROM `gcp-infra-334407.data_set.100_records` WHERE Age_in_Yrs_ >= 27 ORDER BY Emp_ID ASC LIMIT 10
